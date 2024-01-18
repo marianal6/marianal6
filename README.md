@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ¡Hola, viajero del código! 👋
-
-¡Bienvenido a mi rincón digital! 🚀 Soy [Tu Nombre], una analista de datos apasionada por el aprendizaje y la innovación. Si estás buscando a alguien con sólidos conocimientos en SQL, Python, R, Power BI y Excel, ¡has llegado al lugar adecuado! 📊💻
+Soy  Mariana🚀 una analista de datos apasionada por el aprendizaje continuo. Si estás buscando a alguien con conocimientos en SQL, Python, R, Power BI y Excel, ¡has llegado al lugar adecuado! 📊💻
 
 ## ¿Qué encontrarás en mi perfil?
-
-- 💡 **Mentalidad Innovadora:** Siempre estoy en busca de soluciones creativas y eficientes para los desafíos de datos. ¡La innovación es mi segunda naturaleza!
 
 - 📚 **Aprendizaje Continuo:** Mi sed de conocimiento es insaciable. Estoy constantemente aprendiendo nuevas tecnologías y técnicas para mantenerme a la vanguardia en el mundo de la analítica de datos.
 
@@ -33,9 +29,11 @@ Here are some ideas to get you started:
 - **R:** Análisis estadístico y visualización de datos.
 - **Power BI:** Creación de informes interactivos y visualizaciones.
 - **Excel:** Dominio avanzado para análisis y modelado de datos.
+<a href="#" style="display: inline-block; background-color: #4CAF50; color: #fff; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; margin-right: 10px;">Botón 1</a>
 
+<a href="#" style="display: inline-block; background-color: #2196F3; color: #fff; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; margin-right: 10px;">Botón 2</a>
 
-
+<a href="#" style="display: inline-block; background-color: #f44336; color: #fff; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px;">Botón 3</a>
 ## ¡Conéctate conmigo! 🌐
 
 - 📧 [Correo Electrónico](mailto:tu.marianalujanalva@gmail.com)
