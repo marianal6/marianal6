@@ -14,30 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-¡Bienvenido a mi rincón digital! 🚀 Soy Mariana, una analista de datos apasionada por el aprendizaje y la innovación. Si estás buscando a alguien con sólidos conocimientos en SQL, Python, R, Power BI y Excel, ¡has llegado al lugar adecuado! 📊💻
+# ¡Hola, viajero del código! 👋
 
-¿Qué encontrarás en mi perfil?
-💡 Mentalidad Innovadora: Siempre estoy en busca de soluciones creativas y eficientes para los desafíos de datos. ¡La innovación es mi segunda naturaleza!
+¡Bienvenido a mi rincón digital! 🚀 Soy [Tu Nombre], una analista de datos apasionada por el aprendizaje y la innovación. Si estás buscando a alguien con sólidos conocimientos en SQL, Python, R, Power BI y Excel, ¡has llegado al lugar adecuado! 📊💻
 
-📚 Aprendizaje Continuo: Mi sed de conocimiento es insaciable. Estoy constantemente aprendiendo nuevas tecnologías y técnicas para mantenerme a la vanguardia en el mundo de la analítica de datos.
+## ¿Qué encontrarás en mi perfil?
 
-🤝 Colaboración Efectiva: Mi objetivo es contribuir significativamente al éxito de cualquier equipo en el que participe. ¡La colaboración y el trabajo en equipo son clave para lograr resultados excepcionales!
+- 💡 **Mentalidad Innovadora:** Siempre estoy en busca de soluciones creativas y eficientes para los desafíos de datos. ¡La innovación es mi segunda naturaleza!
 
-Tecnologías y Herramientas 🛠️
-SQL: Consultas y manipulación de datos a nivel experto.
-Python: Desarrollo de scripts y análisis de datos.
-R: Análisis estadístico y visualización de datos.
-Power BI: Creación de informes interactivos y visualizaciones.
-Excel: Dominio avanzado para análisis y modelado de datos.
-Proyectos Destacados 🚀
+- 📚 **Aprendizaje Continuo:** Mi sed de conocimiento es insaciable. Estoy constantemente aprendiendo nuevas tecnologías y técnicas para mantenerme a la vanguardia en el mundo de la analítica de datos.
 
-Descripción breve del Proyecto 1.
+- 🤝 **Colaboración Efectiva:** Mi objetivo es contribuir significativamente al éxito de cualquier equipo en el que participe. ¡La colaboración y el trabajo en equipo son clave para lograr resultados excepcionales!
+
+## Tecnologías y Herramientas que manejo🛠️
+
+- **SQL:** Consultas y manipulación de datos a nivel experto.
+- **Python:** Desarrollo de scripts y análisis de datos.
+- **R:** Análisis estadístico y visualización de datos.
+- **Power BI:** Creación de informes interactivos y visualizaciones.
+- **Excel:** Dominio avanzado para análisis y modelado de datos.
 
 
-Descripción breve del Proyecto 2.
 
-¡Conéctate conmigo! 🌐
-📧 Correo Electrónico
-🔗 LinkedIn
-🌐 Sitio Web/Portafolio
+## ¡Conéctate conmigo! 🌐
+
+- 📧 [Correo Electrónico](mailto:tu.marianalujanalva@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/marianalujan/)
+
 ¡Gracias por visitar mi perfil! Estoy emocionado de conectar y aprender juntos. ¡Hagamos cosas increíbles con los datos! 🚀✨
+
